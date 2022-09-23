@@ -1,1 +1,4 @@
-Readme file
+
+Each folder containes one participant's gait data.
+Joint kinematics, joint kinetics, muscle forces, IMU, and EMG data for an average number of 16 trials are available for each participant.
+Joint kinematics, joint kinetics, and muscle forces data are cutted for the period over force plates.
